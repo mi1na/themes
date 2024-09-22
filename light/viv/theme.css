@@ -1,33 +1,33 @@
   
  :root {
   --bg: #f6f8fa;
-  --bg-light: #dfe1e3;
-  --bg-lighter: #ffffff;
-  --fg: #000000;
-  --fg-light: #946e8a;
-  --fg-lighter: rgb(0 0 0);
-  --main: rgb(0 67 255);
-  --hover: rgb(0 81 255 / 26%);
-  --border: #d0d7de;
-  --selection: #ca9ed005;
-  --gray: #1a1c23;
-  --brown: rgba(0, 19, 59, 0.616);
-  --orange: #dba0ee;
-  --yellow: #b3ff00;
-  --green: rgb(0, 255, 85);
-  --blue: rgb(0 67 255);
-  --purple: #7f87fd;
-  --pink: #ff6af8;
-  --red: #ff00ea;
-  --bg-gray: #d7d7d791;
-  --bg-brown: hsla(234, 100%, 80%, 0.384);
-  --bg-orange: #e0c7dead;
-  --bg-yellow: #e5ffc0;
-  --bg-green: rgb(225 240 186);
-  --bg-blue: rgba(0, 17, 255, 0.267);
-  --bg-purple: #e4e3f2;
-  --bg-pink: #e5d0ec;
-  --bg-red: #e1cfde;
+  --bg-light: #dfe1e3!important;
+  --bg-lighter: #ffffff!important;
+  --fg: #000000!important;
+  --fg-light: #946e8a!important;
+  --fg-lighter: rgb(0 0 0)!important;
+  --main: rgb(0 67 255)!important;
+  --hover: rgb(0 81 255 / 26%)!important;
+  --border: #d0d7de!important;
+  --selection: #ca9ed005!important;
+  --gray: #1a1c23!important;
+  --brown: rgba(0, 19, 59, 0.616)!important;
+  --orange: #dba0ee!important;
+  --yellow: #b3ff00!important;
+  --green: rgb(0, 255, 85)!important;
+  --blue: rgb(0 67 255)!important;
+  --purple: #7f87fd!important;
+  --pink: #ff6af8!important;
+  --red: #ff00ea!important;
+  --bg-gray: #d7d7d791!important;
+  --bg-brown: hsla(234, 100%, 80%, 0.384)!important;
+  --bg-orange: #e0c7dead!important;
+  --bg-yellow: #e5ffc0!important;
+  --bg-green: rgb(225 240 186)!important;
+  --bg-blue: rgba(0, 17, 255, 0.267)!important;
+  --bg-purple: #e4e3f2!important;
+  --bg-pink: #e5d0ec!important;
+  --bg-red: #e1cfde!important;
 }
 
 .notion-sidebar {
