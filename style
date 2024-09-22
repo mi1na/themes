@@ -29,7 +29,6 @@
   --bg-pink: #e5d0ec;
   --bg-red: #e1cfde;
 }
-
 .notion-sidebar {
   box-shadow: inset -1px 0 0 0 #d0d7de;
 }
