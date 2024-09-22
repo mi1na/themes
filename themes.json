@@ -81,9 +81,9 @@
     }
   },
   "vivien": {
-    "img": "/light/library/preview.png",
+    "img": "/light/viv/preview.png",
     "style": "light",
-    "path": "/light/library/theme.css",
+    "path": "/light/viv/theme.css",
     "maker": {
       "name": "viven",
       "socialLink": "https://twitter.com/_yudax"
